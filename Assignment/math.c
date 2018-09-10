@@ -6,7 +6,7 @@
 *      Author: Rajinder Parhar
 */
 
-#include <stdio.h>
+#include <math.h>
 int operations(int num1, int num2, char Operator, int result)
 {
     switch(Operator)
